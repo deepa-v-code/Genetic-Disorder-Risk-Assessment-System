@@ -1,0 +1,1201 @@
+Age,Gender,Family_History,Consanguinity,Genetic_Test_Result,Symptom_Severity,Developmental_Delay,Neurological_Symptoms,Metabolic_Abnormality,Chromosomal_Abnormality,Disorder_Category
+8,Female,No,No,Positive,Moderate,Yes,Yes,No,No,Needs Further Review
+62,Male,No,No,Not Available,None,Yes,No,No,No,No Indication in Synthetic Data
+53,Male,,No,Positive,Mild,No,No,No,No,Needs Further Review
+36,Male,No,No,Negative,None,Yes,No,Yes,No,Needs Further Review
+35,Male,No,Yes,Negative,Mild,No,Yes,Yes,No,Higher Synthetic Risk Group
+69,Male,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+7,Male,Yes,No,Positive,Mild,No,No,Yes,No,Needs Further Review
+56,Female,No,Yes,Positive,None,No,No,No,No,No Indication in Synthetic Data
+17,Male,No,Yes,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+8,Female,Yes,No,Positive,Moderate,Yes,Yes,Yes,No,Higher Synthetic Risk Group
+43,Male,Yes,No,Negative,Mild,No,Yes,No,Yes,Needs Further Review
+79,,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+59,Male,No,No,Negative,Mild,No,No,No,Yes,Needs Further Review
+61,Other,Yes,No,Positive,None,Yes,No,No,No,Needs Further Review
+58,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+63,Male,No,No,Positive,Mild,Yes,No,No,No,No Indication in Synthetic Data
+42,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+11,Female,No,Yes,Positive,Severe,No,No,No,Yes,Needs Further Review
+68,Female,No,No,Not Available,None,No,No,,Yes,No Indication in Synthetic Data
+37,Female,No,No,Negative,Mild,No,No,No,No,Needs Further Review
+41,Male,No,No,Positive,Mild,No,No,No,No,Needs Further Review
+30,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+15,Other,No,No,Negative,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+75,Female,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+63,Male,No,No,Positive,Severe,Yes,No,No,No,Higher Synthetic Risk Group
+52,Female,Yes,No,Not Available,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+33,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+66,Female,No,No,Positive,Moderate,No,Yes,No,Yes,Needs Further Review
+44,Male,No,No,Negative,Severe,No,No,Yes,Yes,Needs Further Review
+36,Male,No,No,Negative,Moderate,No,Yes,Yes,No,Needs Further Review
+37,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+19,Male,No,Yes,Positive,Mild,Yes,No,No,No,Higher Synthetic Risk Group
+8,Female,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+45,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+72,Female,Yes,No,Positive,Moderate,No,No,No,No,Higher Synthetic Risk Group
+6,Female,Yes,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+69,Male,Yes,No,Negative,Moderate,Yes,No,No,No,Needs Further Review
+67,Male,No,Yes,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+23,Male,No,No,Negative,Severe,No,No,No,No,Needs Further Review
+51,Male,No,No,Negative,None,No,No,Yes,No,Needs Further Review
+14,Male,Yes,No,Negative,None,Yes,No,Yes,No,Needs Further Review
+61,Male,No,No,Not Available,Moderate,No,No,,Yes,Needs Further Review
+57,Female,Yes,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+29,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+6,Male,Yes,No,Negative,Severe,No,Yes,No,No,Needs Further Review
+78,Male,No,No,Negative,Mild,Yes,No,Yes,No,No Indication in Synthetic Data
+36,Female,Yes,No,Not Available,Moderate,Yes,No,No,Yes,Higher Synthetic Risk Group
+72,Male,No,No,Positive,Mild,Yes,No,No,No,Needs Further Review
+55,Male,No,No,Positive,Mild,No,Yes,No,Yes,Needs Further Review
+63,Female,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+61,Female,Yes,No,Negative,None,No,No,Yes,No,Needs Further Review
+16,Male,No,Yes,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+30,Male,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+38,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+40,Male,No,No,Not Available,Severe,No,No,No,No,Needs Further Review
+4,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+44,Male,Yes,No,Positive,None,No,Yes,No,No,Needs Further Review
+13,Female,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+60,Male,,No,Not Available,None,No,No,Yes,No,Needs Further Review
+55,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+74,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+60,Male,No,No,Not Available,None,No,Yes,No,No,No Indication in Synthetic Data
+30,Female,No,No,Negative,None,Yes,Yes,No,Yes,Needs Further Review
+78,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+33,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+27,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+73,Male,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+30,Other,Yes,No,Not Available,None,No,Yes,No,No,No Indication in Synthetic Data
+7,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+38,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+64,Female,Yes,Yes,Not Available,Moderate,No,Yes,No,No,Higher Synthetic Risk Group
+16,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+38,Other,No,No,Not Available,Severe,No,No,No,No,Needs Further Review
+11,Male,No,No,Not Available,None,No,Yes,No,No,Needs Further Review
+55,Male,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+39,Female,No,No,Positive,None,Yes,Yes,Yes,No,Needs Further Review
+27,Male,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+0,Male,Yes,No,Not Available,Mild,No,No,No,No,Needs Further Review
+46,Female,No,No,Negative,Moderate,Yes,No,Yes,Yes,Higher Synthetic Risk Group
+54,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+76,Female,No,No,Positive,,No,No,No,No,No Indication in Synthetic Data
+35,Female,No,Yes,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+13,Female,No,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+67,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+51,Male,Yes,No,Not Available,Severe,No,Yes,Yes,No,Needs Further Review
+57,Female,Yes,No,Positive,Severe,No,No,Yes,No,Higher Synthetic Risk Group
+8,Female,Yes,No,Not Available,Severe,No,No,No,No,Needs Further Review
+25,Male,Yes,No,Positive,None,No,Yes,No,No,Higher Synthetic Risk Group
+62,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+67,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+35,Female,Yes,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+65,Male,No,No,Positive,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+68,Female,No,No,Positive,Mild,No,Yes,Yes,No,Needs Further Review
+31,Female,Yes,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+72,Male,Yes,No,Not Available,Severe,No,No,No,Yes,Higher Synthetic Risk Group
+24,Male,Yes,Yes,Negative,Mild,No,No,No,No,Needs Further Review
+20,Male,No,Yes,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+55,Male,Yes,No,Negative,Mild,Yes,Yes,No,No,Needs Further Review
+51,Male,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+12,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+67,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+16,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+65,Female,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+1,Male,Yes,No,Negative,Moderate,Yes,No,No,No,Needs Further Review
+64,Female,No,No,Positive,Severe,No,No,No,No,Needs Further Review
+63,Male,No,No,Positive,Mild,No,Yes,No,No,No Indication in Synthetic Data
+63,Male,No,No,Negative,None,Yes,No,No,No,No Indication in Synthetic Data
+54,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+38,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+57,Female,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+23,Other,Yes,No,Negative,None,Yes,No,No,Yes,Needs Further Review
+63,Male,Yes,No,Negative,Mild,No,Yes,No,No,Needs Further Review
+45,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+37,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+41,Male,Yes,No,Positive,None,No,No,No,No,Higher Synthetic Risk Group
+46,Female,Yes,No,Negative,Severe,No,No,No,No,Needs Further Review
+3,,No,No,Not Available,None,No,No,Yes,No,No Indication in Synthetic Data
+12,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+20,Male,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+10,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+36,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+54,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+53,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+38,Male,,No,Positive,Moderate,Yes,No,No,No,Needs Further Review
+69,Female,Yes,No,Positive,Mild,No,No,No,No,Higher Synthetic Risk Group
+46,Female,Yes,No,Negative,Severe,No,Yes,No,Yes,Higher Synthetic Risk Group
+7,Female,No,No,Positive,Mild,Yes,Yes,No,No,Needs Further Review
+62,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+46,Female,Yes,No,Not Available,Severe,No,Yes,No,No,Needs Further Review
+51,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+46,Female,No,No,Positive,Mild,No,No,Yes,No,Needs Further Review
+45,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+8,Female,No,Yes,Positive,Mild,No,Yes,No,No,Needs Further Review
+45,Female,No,Yes,Negative,Mild,No,Yes,No,Yes,Needs Further Review
+64,Female,No,No,Not Available,Moderate,Yes,No,Yes,No,No Indication in Synthetic Data
+25,Male,Yes,No,Positive,Moderate,No,No,,No,Needs Further Review
+49,Female,,No,Positive,Mild,Yes,Yes,No,No,Higher Synthetic Risk Group
+3,Female,No,Yes,Positive,Moderate,No,Yes,No,No,Higher Synthetic Risk Group
+28,Female,Yes,No,Negative,Mild,No,Yes,No,No,Needs Further Review
+35,Female,Yes,No,Not Available,None,No,No,Yes,No,Needs Further Review
+79,Female,Yes,No,Positive,,No,Yes,No,No,Higher Synthetic Risk Group
+18,Female,No,No,Positive,Mild,No,No,,No,No Indication in Synthetic Data
+23,Male,No,No,Negative,Moderate,Yes,No,No,Yes,Needs Further Review
+33,Female,Yes,Yes,Negative,Moderate,Yes,No,No,No,Needs Further Review
+80,Male,No,No,Negative,Mild,Yes,No,Yes,No,No Indication in Synthetic Data
+69,Female,No,No,Not Available,Mild,Yes,No,,No,No Indication in Synthetic Data
+3,Female,Yes,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+19,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+66,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+5,Male,No,No,Not Available,Mild,No,No,Yes,No,Needs Further Review
+69,Female,No,Yes,Positive,Mild,Yes,No,No,No,No Indication in Synthetic Data
+23,Female,Yes,No,Positive,None,No,No,No,No,Higher Synthetic Risk Group
+74,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+24,Female,No,No,Positive,None,No,Yes,No,No,No Indication in Synthetic Data
+35,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+53,Female,No,No,Negative,Severe,Yes,No,No,No,Needs Further Review
+11,Female,No,Yes,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+45,Male,Yes,Yes,Negative,Mild,No,No,Yes,No,Needs Further Review
+41,Female,,No,Negative,Moderate,No,Yes,,No,No Indication in Synthetic Data
+63,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+80,Male,,No,Negative,Severe,Yes,Yes,No,No,Higher Synthetic Risk Group
+54,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+33,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+33,Female,Yes,No,Not Available,None,No,No,No,No,Needs Further Review
+34,Male,No,No,Negative,Severe,No,Yes,No,Yes,No Indication in Synthetic Data
+66,Female,Yes,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+26,Female,No,Yes,Negative,Moderate,No,No,No,No,Needs Further Review
+14,,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+27,Female,No,Yes,Positive,None,No,Yes,Yes,No,Needs Further Review
+2,Male,No,No,Negative,,No,Yes,,No,No Indication in Synthetic Data
+9,Female,Yes,No,Negative,None,No,No,No,No,Needs Further Review
+8,Male,No,No,Positive,None,No,Yes,No,Yes,Needs Further Review
+62,Male,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+58,Male,No,No,Positive,Severe,No,Yes,Yes,No,Needs Further Review
+56,Female,Yes,No,Negative,Mild,No,No,,No,Needs Further Review
+37,Male,Yes,Yes,Positive,None,No,No,No,No,Needs Further Review
+58,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+13,Female,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+73,Male,No,Yes,Not Available,Severe,No,No,No,No,No Indication in Synthetic Data
+41,Male,Yes,No,Positive,Moderate,No,No,Yes,Yes,Higher Synthetic Risk Group
+76,Female,No,No,Negative,Moderate,No,No,No,No,Needs Further Review
+13,Male,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+40,Female,No,No,Negative,Mild,No,No,No,Yes,No Indication in Synthetic Data
+56,Male,Yes,No,Negative,Moderate,Yes,No,No,No,Needs Further Review
+40,Other,No,Yes,Not Available,Moderate,No,No,No,No,Needs Further Review
+36,Female,No,Yes,Not Available,Severe,No,Yes,No,No,Needs Further Review
+14,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+31,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+20,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+25,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+55,Female,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+51,Female,No,Yes,Negative,Moderate,No,No,No,No,Needs Further Review
+49,Female,Yes,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+29,Female,Yes,No,Negative,None,No,No,No,No,Needs Further Review
+77,Female,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+8,Female,No,No,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+28,Female,Yes,No,Positive,Severe,No,Yes,No,Yes,Higher Synthetic Risk Group
+10,Female,Yes,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+28,Male,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+77,Male,No,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+30,Male,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+73,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+40,Male,No,No,Positive,Severe,No,No,No,No,Needs Further Review
+56,Male,No,No,Negative,Severe,No,Yes,No,No,No Indication in Synthetic Data
+37,Female,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+22,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+62,Male,No,Yes,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+78,Female,Yes,Yes,Negative,Moderate,No,No,No,No,Needs Further Review
+22,Male,Yes,Yes,Not Available,Mild,No,No,No,No,Needs Further Review
+63,Other,No,Yes,Positive,Moderate,No,No,No,No,Needs Further Review
+21,Female,Yes,No,Negative,None,Yes,No,No,No,Needs Further Review
+58,Female,Yes,No,Positive,Moderate,No,No,No,Yes,Higher Synthetic Risk Group
+64,Other,Yes,No,Negative,Mild,No,No,Yes,No,Higher Synthetic Risk Group
+36,Male,No,No,Positive,Moderate,Yes,No,Yes,No,Needs Further Review
+59,Female,No,No,Negative,Moderate,No,Yes,Yes,No,Needs Further Review
+22,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+7,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+8,Male,Yes,Yes,Positive,Moderate,No,No,No,Yes,Higher Synthetic Risk Group
+36,Male,No,No,Positive,Moderate,Yes,No,No,Yes,Needs Further Review
+73,Female,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+11,Female,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+37,Male,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+57,Female,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+17,Male,Yes,No,Negative,Moderate,Yes,No,No,No,Needs Further Review
+58,Male,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+25,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+65,Male,No,No,Positive,Moderate,Yes,No,No,No,Needs Further Review
+47,Female,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+44,Male,,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+15,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+38,Male,Yes,No,Negative,Mild,No,No,Yes,Yes,Needs Further Review
+69,Male,No,Yes,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+2,Female,Yes,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+61,Male,No,Yes,Negative,None,No,No,No,No,No Indication in Synthetic Data
+40,Male,Yes,No,Negative,None,No,Yes,Yes,No,Higher Synthetic Risk Group
+58,Male,No,No,Negative,,Yes,No,No,No,No Indication in Synthetic Data
+54,Male,No,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+35,Other,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+25,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+51,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+12,Female,,No,Positive,Mild,No,Yes,No,No,Higher Synthetic Risk Group
+47,Male,No,No,Negative,,No,No,No,No,No Indication in Synthetic Data
+8,Male,No,No,Not Available,Moderate,No,No,Yes,No,Needs Further Review
+52,Female,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+51,Female,No,Yes,Positive,Moderate,No,No,No,No,Needs Further Review
+7,Male,Yes,No,Negative,Mild,Yes,Yes,No,Yes,Needs Further Review
+61,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+34,Male,No,No,Negative,None,No,No,No,Yes,Needs Further Review
+63,Female,Yes,No,Negative,Mild,No,No,No,Yes,Needs Further Review
+4,Male,Yes,No,Positive,None,No,No,No,No,Higher Synthetic Risk Group
+15,Female,No,No,Not Available,Severe,No,No,No,No,No Indication in Synthetic Data
+40,Female,Yes,No,Not Available,Mild,No,No,,No,Needs Further Review
+16,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+27,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+53,Female,Yes,Yes,Negative,Mild,Yes,No,No,No,Needs Further Review
+12,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+55,Male,No,Yes,Positive,Severe,No,No,No,No,Needs Further Review
+9,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+15,Female,Yes,No,Positive,None,No,No,No,No,Needs Further Review
+48,Male,Yes,Yes,Not Available,Moderate,Yes,No,No,No,Needs Further Review
+64,Male,No,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+14,Male,Yes,No,Negative,None,No,Yes,Yes,No,Needs Further Review
+24,Male,No,Yes,Negative,Mild,Yes,No,No,Yes,Higher Synthetic Risk Group
+75,Male,Yes,No,Not Available,,No,No,No,No,No Indication in Synthetic Data
+80,Female,No,No,Positive,None,No,No,Yes,No,No Indication in Synthetic Data
+47,Male,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+36,Male,No,No,Positive,Mild,No,Yes,No,No,No Indication in Synthetic Data
+28,Male,No,No,Negative,Severe,Yes,No,No,No,No Indication in Synthetic Data
+49,Female,Yes,No,Not Available,Moderate,No,Yes,No,No,Needs Further Review
+48,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+24,Male,No,No,Not Available,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+2,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+13,Male,Yes,No,Negative,Mild,No,Yes,No,No,Needs Further Review
+77,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+34,,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+39,Male,No,No,Negative,Severe,No,No,Yes,Yes,Needs Further Review
+38,Female,No,No,Negative,None,Yes,Yes,No,No,Needs Further Review
+63,Female,Yes,No,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+6,Male,Yes,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+7,Male,Yes,Yes,Not Available,Mild,Yes,No,No,No,Needs Further Review
+23,Female,No,No,Negative,Severe,Yes,Yes,No,No,Higher Synthetic Risk Group
+39,Male,Yes,Yes,Negative,Mild,No,No,No,Yes,Higher Synthetic Risk Group
+54,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+40,Female,Yes,Yes,Negative,Moderate,No,No,No,No,Higher Synthetic Risk Group
+36,Female,No,No,Not Available,Mild,No,Yes,No,No,No Indication in Synthetic Data
+76,Female,Yes,No,Negative,None,No,No,Yes,No,Needs Further Review
+13,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+46,Female,Yes,No,Positive,None,No,Yes,No,Yes,Higher Synthetic Risk Group
+44,Female,No,Yes,Negative,Moderate,No,No,No,No,Needs Further Review
+38,Male,No,No,Negative,Severe,No,Yes,Yes,No,Needs Further Review
+65,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+22,Male,No,No,Not Available,None,No,Yes,No,No,No Indication in Synthetic Data
+77,Female,No,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+27,Female,Yes,No,Positive,Severe,No,No,Yes,No,Higher Synthetic Risk Group
+44,Male,No,No,Negative,Moderate,Yes,Yes,Yes,No,Higher Synthetic Risk Group
+42,Male,Yes,No,Negative,Mild,Yes,No,No,No,Needs Further Review
+68,Female,Yes,No,Negative,None,No,Yes,Yes,No,Higher Synthetic Risk Group
+36,Female,No,No,Negative,Severe,Yes,No,No,No,Needs Further Review
+0,Female,Yes,No,Not Available,Severe,No,No,No,No,Needs Further Review
+2,Male,Yes,Yes,Negative,None,No,No,Yes,No,Higher Synthetic Risk Group
+30,Female,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+67,Female,Yes,No,Negative,None,No,Yes,No,Yes,Higher Synthetic Risk Group
+1,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+72,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+44,Male,No,No,Positive,Mild,No,No,Yes,No,Needs Further Review
+12,Male,No,Yes,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+25,Male,No,Yes,Negative,Severe,No,No,No,No,Needs Further Review
+45,Female,No,Yes,Positive,Moderate,No,No,No,Yes,Higher Synthetic Risk Group
+26,Female,Yes,No,Negative,None,No,No,No,Yes,Needs Further Review
+9,Female,Yes,Yes,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+54,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+54,Male,No,No,Negative,Mild,No,No,No,No,Needs Further Review
+10,Male,Yes,No,Not Available,Severe,No,No,No,No,Needs Further Review
+23,Other,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+20,Other,Yes,No,Positive,None,No,Yes,No,No,Needs Further Review
+53,Male,No,Yes,Negative,None,No,No,No,No,Needs Further Review
+59,Female,Yes,No,Negative,Moderate,No,No,No,Yes,Needs Further Review
+59,Female,Yes,Yes,Negative,Severe,No,No,No,No,Needs Further Review
+76,Female,Yes,Yes,Negative,None,No,No,No,No,Higher Synthetic Risk Group
+62,Male,Yes,No,Negative,None,No,No,Yes,No,Needs Further Review
+26,Female,,Yes,Positive,Moderate,No,No,No,No,Needs Further Review
+9,Male,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+50,Male,Yes,No,Negative,None,No,No,Yes,Yes,Higher Synthetic Risk Group
+74,Male,Yes,No,Not Available,Severe,No,Yes,No,No,Needs Further Review
+79,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+19,Female,No,No,Negative,Severe,Yes,No,No,No,No Indication in Synthetic Data
+19,Female,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+3,Male,Yes,No,Negative,,No,No,Yes,No,No Indication in Synthetic Data
+12,Male,Yes,No,Negative,Severe,No,No,Yes,No,No Indication in Synthetic Data
+45,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+44,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+30,Female,No,No,Negative,Severe,No,No,Yes,Yes,Needs Further Review
+25,Female,No,Yes,Negative,Moderate,No,No,No,No,Needs Further Review
+67,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+37,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+65,Female,No,No,Positive,Severe,No,No,No,No,Needs Further Review
+78,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+26,Female,No,No,Not Available,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+17,Male,No,No,Positive,Severe,Yes,No,No,No,Needs Further Review
+77,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+51,Female,No,No,Positive,Moderate,No,No,Yes,No,Higher Synthetic Risk Group
+24,Male,No,No,Positive,Moderate,No,No,Yes,No,Needs Further Review
+50,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+42,Female,No,Yes,Negative,Severe,No,No,No,No,Needs Further Review
+73,Female,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+21,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+80,Male,Yes,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+75,Male,No,No,Negative,Severe,No,Yes,No,No,No Indication in Synthetic Data
+15,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+14,Female,Yes,No,Negative,Severe,No,Yes,Yes,No,Higher Synthetic Risk Group
+43,Male,No,Yes,Positive,None,No,No,No,No,Needs Further Review
+4,Female,Yes,Yes,Negative,Mild,No,No,No,No,Needs Further Review
+24,Female,No,Yes,Positive,Moderate,Yes,No,No,No,Needs Further Review
+35,Female,No,No,Negative,Moderate,No,No,No,Yes,Needs Further Review
+78,Male,No,No,Negative,None,No,No,,No,No Indication in Synthetic Data
+80,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+13,Male,Yes,No,Negative,None,No,No,No,No,Needs Further Review
+72,Male,Yes,No,Negative,Mild,No,Yes,No,Yes,Needs Further Review
+8,Male,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+60,Male,Yes,No,Negative,None,No,No,Yes,No,Higher Synthetic Risk Group
+68,Male,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+72,Female,Yes,No,Negative,Severe,Yes,No,No,No,Higher Synthetic Risk Group
+18,Female,No,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+72,Female,No,No,Not Available,Severe,No,Yes,No,No,No Indication in Synthetic Data
+10,Male,No,No,Positive,Mild,Yes,No,No,No,No Indication in Synthetic Data
+42,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+38,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+26,Female,No,No,Positive,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+2,Male,Yes,No,Negative,Mild,No,Yes,No,No,Needs Further Review
+62,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+27,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+53,Female,Yes,Yes,Not Available,Severe,No,No,Yes,No,Higher Synthetic Risk Group
+33,Female,No,No,Positive,Mild,No,No,No,No,Needs Further Review
+30,Male,Yes,No,Negative,Mild,No,No,,No,No Indication in Synthetic Data
+71,Female,No,No,Not Available,Mild,No,Yes,No,No,No Indication in Synthetic Data
+8,Male,No,No,Positive,None,Yes,No,No,No,No Indication in Synthetic Data
+59,Female,No,Yes,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+60,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+31,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+21,Female,No,No,Positive,None,No,No,No,Yes,Needs Further Review
+1,Other,No,No,Negative,Severe,No,No,No,No,Needs Further Review
+75,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+76,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+20,Female,Yes,No,Not Available,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+3,Female,,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+10,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+6,Female,No,No,Negative,Severe,No,No,No,No,Needs Further Review
+67,Female,No,No,Not Available,Moderate,Yes,No,No,No,Needs Further Review
+72,Female,Yes,No,Negative,Moderate,Yes,No,No,No,Needs Further Review
+13,Male,No,No,Not Available,Mild,Yes,No,Yes,No,No Indication in Synthetic Data
+60,Male,Yes,No,Negative,Moderate,Yes,No,No,Yes,Higher Synthetic Risk Group
+15,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+30,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+48,Female,Yes,Yes,Positive,None,No,No,No,No,Higher Synthetic Risk Group
+58,Male,No,No,Positive,Moderate,No,No,No,No,Needs Further Review
+70,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+4,Male,Yes,Yes,Negative,Mild,No,No,No,No,Higher Synthetic Risk Group
+16,,No,Yes,Positive,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+23,Other,Yes,No,Negative,Moderate,No,No,No,Yes,Needs Further Review
+25,Female,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+80,Female,Yes,Yes,Negative,Mild,No,Yes,No,No,Higher Synthetic Risk Group
+63,Female,No,No,Not Available,Moderate,No,No,No,No,Needs Further Review
+26,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+78,Female,Yes,No,Negative,Moderate,No,No,No,No,Higher Synthetic Risk Group
+40,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+41,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+35,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+12,Female,No,No,Positive,Moderate,Yes,No,Yes,No,Higher Synthetic Risk Group
+75,Male,Yes,No,Positive,None,Yes,No,No,No,Higher Synthetic Risk Group
+2,Female,Yes,Yes,Not Available,Moderate,No,No,No,No,Needs Further Review
+14,Male,No,No,Not Available,,Yes,No,No,No,No Indication in Synthetic Data
+19,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+23,Female,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+11,Male,No,Yes,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+2,Female,No,No,Negative,,No,Yes,No,No,No Indication in Synthetic Data
+55,Female,Yes,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+78,Male,Yes,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+10,Male,No,No,Negative,None,Yes,No,No,No,Needs Further Review
+24,Female,No,Yes,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+41,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+75,Male,No,No,Positive,Moderate,No,No,Yes,No,Needs Further Review
+56,Male,,No,Not Available,Moderate,No,No,Yes,No,Needs Further Review
+62,Other,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+47,Male,Yes,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+34,Male,,No,Positive,Mild,Yes,No,No,No,No Indication in Synthetic Data
+16,Female,Yes,No,Negative,None,No,Yes,No,No,Needs Further Review
+70,Male,No,Yes,Not Available,Moderate,No,No,Yes,No,Needs Further Review
+65,Female,Yes,No,Negative,Mild,No,Yes,No,Yes,Higher Synthetic Risk Group
+3,Male,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+58,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+7,Male,Yes,No,Negative,Moderate,Yes,Yes,No,No,Higher Synthetic Risk Group
+60,Male,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+67,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+11,Male,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+35,Female,No,Yes,Negative,Mild,Yes,No,No,No,Higher Synthetic Risk Group
+10,Male,No,No,Positive,None,No,Yes,No,Yes,Needs Further Review
+46,Female,Yes,No,Negative,Severe,Yes,No,No,No,Higher Synthetic Risk Group
+75,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+7,Female,No,Yes,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+32,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+78,Female,Yes,No,Positive,Mild,No,Yes,No,No,Needs Further Review
+25,Male,Yes,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+11,Male,No,Yes,Negative,Mild,Yes,No,No,No,Needs Further Review
+40,Male,Yes,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+41,Female,No,No,Negative,Mild,No,No,No,No,Needs Further Review
+54,Female,Yes,No,Not Available,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+26,Female,Yes,No,Not Available,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+77,Male,No,No,Positive,None,No,Yes,No,No,No Indication in Synthetic Data
+42,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+23,Female,Yes,No,Negative,Moderate,No,Yes,No,No,Higher Synthetic Risk Group
+77,Male,No,No,Not Available,Severe,No,No,No,No,Higher Synthetic Risk Group
+74,Female,No,No,Not Available,Severe,No,Yes,No,No,Needs Further Review
+40,Female,No,Yes,Positive,None,No,No,No,No,Needs Further Review
+2,Female,No,Yes,Positive,Mild,No,No,No,No,Needs Further Review
+48,Female,No,No,Negative,None,Yes,No,No,No,No Indication in Synthetic Data
+45,Male,No,No,Not Available,Moderate,No,Yes,Yes,No,Needs Further Review
+12,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+51,Female,No,No,Positive,Mild,Yes,No,No,No,No Indication in Synthetic Data
+68,Male,Yes,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+9,Male,No,No,Positive,Mild,No,No,No,No,Needs Further Review
+58,Male,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+12,Male,No,No,Not Available,None,Yes,Yes,Yes,No,Needs Further Review
+60,Female,No,Yes,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+34,Male,Yes,No,Positive,Moderate,Yes,No,Yes,No,Higher Synthetic Risk Group
+1,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+78,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+14,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+48,Male,No,No,Negative,Moderate,No,Yes,No,Yes,Needs Further Review
+15,Female,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+75,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+60,Male,No,No,Positive,Moderate,No,No,No,No,Needs Further Review
+65,Male,No,No,Negative,Mild,No,Yes,Yes,No,No Indication in Synthetic Data
+35,Female,No,No,Positive,None,No,No,Yes,No,No Indication in Synthetic Data
+38,Male,No,No,Negative,None,No,No,Yes,No,Needs Further Review
+51,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+63,Female,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+68,Male,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+2,Female,Yes,No,Positive,None,No,No,No,No,Higher Synthetic Risk Group
+54,Male,No,No,Positive,Moderate,Yes,No,No,Yes,Higher Synthetic Risk Group
+9,Female,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+24,Female,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+67,Male,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+21,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+64,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+38,Male,Yes,No,Not Available,Mild,No,Yes,No,No,Higher Synthetic Risk Group
+19,Male,Yes,No,Negative,None,No,Yes,No,No,Needs Further Review
+27,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+43,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+62,Female,Yes,No,Not Available,Moderate,No,No,No,No,Needs Further Review
+49,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+75,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+70,Male,No,Yes,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+61,Female,No,No,Negative,Mild,No,No,No,Yes,No Indication in Synthetic Data
+49,Female,Yes,No,Not Available,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+24,Male,Yes,No,Negative,None,No,No,Yes,No,Needs Further Review
+34,Female,Yes,No,Negative,Moderate,No,No,Yes,No,Higher Synthetic Risk Group
+10,Female,No,No,Negative,,No,No,Yes,No,No Indication in Synthetic Data
+30,Male,Yes,No,Negative,Moderate,No,No,Yes,No,Needs Further Review
+75,Male,Yes,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+35,Female,No,No,Negative,None,Yes,No,No,No,No Indication in Synthetic Data
+10,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+53,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+78,Male,No,Yes,Negative,None,No,Yes,No,No,Needs Further Review
+70,Male,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+22,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+37,Male,Yes,No,Negative,Severe,Yes,Yes,No,No,Needs Further Review
+43,Female,No,No,Positive,Moderate,No,No,No,No,Needs Further Review
+20,Female,,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+22,Other,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+19,Female,No,No,Negative,None,Yes,No,Yes,No,No Indication in Synthetic Data
+80,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+60,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+68,Male,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+66,Male,Yes,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+77,Other,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+9,Female,Yes,No,Positive,Moderate,No,No,No,No,Needs Further Review
+71,Female,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+6,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+39,Female,No,No,Negative,Severe,No,No,No,Yes,Needs Further Review
+48,Male,No,No,Positive,Mild,No,No,Yes,No,Needs Further Review
+29,Male,Yes,No,Negative,Mild,No,Yes,No,No,Needs Further Review
+12,Female,Yes,No,Negative,None,Yes,No,No,No,No Indication in Synthetic Data
+16,Male,No,Yes,Negative,Moderate,No,Yes,Yes,Yes,Needs Further Review
+66,,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+26,Female,Yes,No,Positive,Moderate,No,No,Yes,No,Higher Synthetic Risk Group
+25,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+74,Male,Yes,Yes,Not Available,Moderate,No,No,No,No,Needs Further Review
+12,Male,Yes,No,Negative,,No,No,Yes,No,Needs Further Review
+74,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+74,Other,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+48,Other,No,Yes,Negative,Severe,No,Yes,No,No,Needs Further Review
+14,Male,No,Yes,Not Available,Mild,No,No,No,Yes,No Indication in Synthetic Data
+13,Female,No,No,Negative,Mild,Yes,Yes,No,No,Needs Further Review
+23,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+47,Male,No,No,Not Available,Mild,No,Yes,No,No,Needs Further Review
+13,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+37,Female,No,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+10,Female,No,No,Positive,Mild,No,Yes,No,No,No Indication in Synthetic Data
+44,Female,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+2,Male,Yes,No,Negative,Moderate,Yes,No,Yes,No,Needs Further Review
+57,Female,Yes,No,Positive,Moderate,No,Yes,No,No,Higher Synthetic Risk Group
+5,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+16,Male,No,No,Negative,None,No,No,No,Yes,No Indication in Synthetic Data
+14,Male,Yes,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+67,Female,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+5,Female,Yes,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+35,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+48,Male,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+42,Male,Yes,Yes,Not Available,Mild,No,Yes,No,No,Needs Further Review
+55,Male,Yes,No,Positive,Moderate,No,Yes,Yes,No,Higher Synthetic Risk Group
+65,Female,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+32,Male,No,No,Negative,Mild,No,No,,No,Needs Further Review
+0,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+26,Female,No,No,Negative,None,No,Yes,Yes,No,Needs Further Review
+79,Male,No,No,Not Available,Mild,No,No,Yes,No,Needs Further Review
+41,Female,No,No,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+59,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+71,Female,No,No,Not Available,None,No,Yes,No,No,No Indication in Synthetic Data
+64,Female,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+69,Male,Yes,No,Not Available,Mild,Yes,Yes,No,No,Needs Further Review
+43,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+4,Male,Yes,No,Negative,None,No,No,Yes,No,Needs Further Review
+40,Male,No,No,Not Available,Mild,No,No,Yes,No,Needs Further Review
+15,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+72,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+19,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+19,Male,Yes,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+20,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+52,Male,No,No,Positive,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+46,Female,No,No,Negative,Moderate,Yes,Yes,No,No,Needs Further Review
+76,Female,No,No,Negative,Mild,No,No,Yes,Yes,No Indication in Synthetic Data
+34,Male,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+23,Female,Yes,No,Positive,Mild,No,Yes,No,No,Needs Further Review
+4,Male,Yes,No,Negative,Severe,No,No,No,No,Higher Synthetic Risk Group
+1,Male,No,No,Positive,Severe,No,No,Yes,No,Needs Further Review
+30,Male,Yes,No,Positive,Mild,Yes,No,No,No,Higher Synthetic Risk Group
+75,Female,No,No,Negative,Moderate,Yes,No,Yes,No,No Indication in Synthetic Data
+42,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+72,Female,Yes,No,Negative,None,No,No,Yes,No,Higher Synthetic Risk Group
+9,Female,No,Yes,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+8,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+67,Female,Yes,No,Not Available,Mild,No,No,Yes,No,No Indication in Synthetic Data
+9,Female,Yes,No,Not Available,Moderate,No,Yes,No,No,Needs Further Review
+5,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+33,Female,Yes,No,Not Available,Moderate,Yes,Yes,No,No,Needs Further Review
+74,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+56,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+8,Other,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+67,Female,No,No,Positive,Severe,Yes,No,No,Yes,Higher Synthetic Risk Group
+68,Male,Yes,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+65,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+73,Female,No,No,Positive,Moderate,No,No,Yes,No,Needs Further Review
+20,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+79,Male,Yes,Yes,Not Available,Severe,No,No,No,No,Needs Further Review
+26,Male,No,Yes,Negative,Moderate,No,Yes,No,No,Needs Further Review
+65,Female,No,No,Positive,Mild,No,No,No,No,Needs Further Review
+47,Female,Yes,No,Positive,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+63,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+51,Female,Yes,No,Not Available,Severe,No,No,No,No,Higher Synthetic Risk Group
+52,Male,No,No,Negative,Moderate,No,No,No,No,Needs Further Review
+50,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+63,Male,No,No,Positive,None,No,Yes,No,No,Needs Further Review
+60,Male,No,No,Positive,Moderate,Yes,No,No,No,Needs Further Review
+11,Male,No,No,Negative,None,No,No,No,Yes,No Indication in Synthetic Data
+67,Female,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+43,Female,Yes,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+26,Male,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+42,Female,Yes,No,Negative,Severe,Yes,No,No,No,Needs Further Review
+78,Female,Yes,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+69,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+67,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+38,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+63,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+31,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+55,Female,No,No,Negative,,No,Yes,Yes,No,No Indication in Synthetic Data
+52,Male,Yes,No,Positive,None,Yes,No,No,Yes,Higher Synthetic Risk Group
+20,Female,Yes,No,Negative,None,No,No,Yes,No,Needs Further Review
+22,Male,No,No,Negative,Moderate,No,No,Yes,No,Needs Further Review
+5,Male,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+12,Female,No,No,Negative,Severe,No,Yes,No,No,No Indication in Synthetic Data
+35,Female,Yes,No,Negative,Severe,No,No,Yes,No,Higher Synthetic Risk Group
+39,Female,Yes,No,Negative,Severe,No,No,No,No,Higher Synthetic Risk Group
+14,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+34,Male,Yes,No,Negative,Severe,Yes,No,No,No,Needs Further Review
+49,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+19,Male,No,No,Negative,Severe,Yes,No,No,No,No Indication in Synthetic Data
+28,Female,Yes,No,Positive,None,Yes,No,No,No,Needs Further Review
+30,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+41,Male,No,No,Negative,Severe,No,No,No,No,Needs Further Review
+30,Female,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+59,Female,No,Yes,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+27,Male,No,No,Negative,Mild,No,Yes,No,Yes,No Indication in Synthetic Data
+35,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+31,Male,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+15,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+55,Female,No,Yes,Not Available,Severe,No,No,Yes,Yes,Needs Further Review
+19,Female,No,No,Positive,Severe,No,No,No,No,No Indication in Synthetic Data
+24,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+64,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+76,Female,No,No,Positive,Mild,No,Yes,No,No,No Indication in Synthetic Data
+54,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+0,Female,Yes,Yes,Negative,None,No,No,Yes,No,Higher Synthetic Risk Group
+69,Female,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+39,Female,No,No,Negative,Severe,No,No,Yes,No,Needs Further Review
+0,Female,No,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+27,Female,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+37,Male,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+43,Female,No,No,Negative,None,No,No,No,Yes,No Indication in Synthetic Data
+77,Male,No,No,Positive,Mild,No,Yes,No,No,Needs Further Review
+68,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+40,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+53,Female,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+17,Female,No,No,Not Available,Moderate,No,Yes,Yes,No,No Indication in Synthetic Data
+65,Male,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+45,Female,No,No,Positive,None,No,Yes,No,No,No Indication in Synthetic Data
+43,Male,No,Yes,Not Available,None,Yes,Yes,No,No,No Indication in Synthetic Data
+62,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+51,Male,Yes,No,Negative,Moderate,No,No,Yes,No,Higher Synthetic Risk Group
+6,Male,Yes,No,Positive,Moderate,No,No,No,No,Needs Further Review
+24,Other,No,Yes,Negative,Severe,Yes,No,No,No,Needs Further Review
+15,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+59,Female,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+3,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+17,Male,No,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+48,Male,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+56,Male,No,No,Positive,Severe,Yes,No,No,No,Needs Further Review
+41,Female,No,No,Negative,Mild,No,No,No,Yes,No Indication in Synthetic Data
+69,Male,No,No,Negative,Mild,No,No,No,Yes,No Indication in Synthetic Data
+74,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+11,Male,Yes,No,Negative,None,No,No,No,No,Needs Further Review
+77,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+50,Female,No,No,Negative,None,No,No,No,No,Needs Further Review
+51,Female,No,No,Negative,None,Yes,No,No,No,No Indication in Synthetic Data
+8,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+50,Female,No,No,Negative,Moderate,No,No,No,No,Needs Further Review
+59,Female,Yes,No,Negative,Mild,No,Yes,Yes,No,Needs Further Review
+47,Female,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+7,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+42,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+75,Male,No,Yes,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+58,Female,No,No,Positive,None,No,Yes,No,No,Needs Further Review
+11,Female,Yes,No,Negative,None,Yes,Yes,Yes,No,Needs Further Review
+77,Female,Yes,No,Negative,Moderate,Yes,No,No,No,Needs Further Review
+77,Male,Yes,No,Negative,None,Yes,No,No,No,No Indication in Synthetic Data
+14,Male,No,No,Not Available,None,No,No,Yes,No,Needs Further Review
+65,,No,Yes,Not Available,Moderate,No,No,Yes,No,Needs Further Review
+33,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+48,Female,No,No,Negative,Mild,Yes,Yes,No,No,Needs Further Review
+36,Female,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+63,Male,No,No,Not Available,Moderate,No,No,Yes,Yes,Needs Further Review
+80,Female,No,Yes,Negative,None,No,Yes,No,No,Needs Further Review
+64,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+75,Male,Yes,Yes,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+76,Female,No,No,Negative,Moderate,Yes,No,Yes,No,Needs Further Review
+8,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+21,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+58,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+48,Female,Yes,Yes,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+5,Male,No,Yes,Not Available,Moderate,No,No,Yes,Yes,Higher Synthetic Risk Group
+8,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+42,Female,Yes,No,Negative,Mild,No,Yes,Yes,No,Needs Further Review
+50,Male,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+14,Male,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+14,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+11,Male,Yes,Yes,Negative,Mild,No,No,No,No,Higher Synthetic Risk Group
+46,Male,Yes,No,Negative,,No,No,Yes,Yes,Higher Synthetic Risk Group
+1,Male,No,No,Not Available,Severe,Yes,No,No,No,No Indication in Synthetic Data
+46,Male,No,No,Positive,None,No,No,No,Yes,No Indication in Synthetic Data
+39,Female,No,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+38,Male,No,No,Positive,Moderate,No,No,No,No,Needs Further Review
+55,Female,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+42,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+59,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+62,Female,Yes,No,Not Available,Severe,No,No,No,No,Needs Further Review
+74,Female,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+64,Male,No,No,Not Available,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+42,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+40,Female,Yes,No,Negative,None,No,Yes,Yes,No,Higher Synthetic Risk Group
+19,Male,No,No,Not Available,Severe,No,No,No,No,No Indication in Synthetic Data
+48,Male,Yes,No,Negative,None,No,Yes,Yes,Yes,Higher Synthetic Risk Group
+12,Male,Yes,No,Negative,None,Yes,No,No,No,Needs Further Review
+75,Female,No,No,Positive,Mild,Yes,No,No,No,No Indication in Synthetic Data
+68,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+10,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+63,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+10,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+58,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+8,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+40,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+53,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+59,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+34,Male,No,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+74,Male,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+62,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+17,Male,No,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+54,Male,No,No,Positive,Mild,No,Yes,No,No,Needs Further Review
+59,Female,No,No,Negative,Severe,No,Yes,Yes,No,Higher Synthetic Risk Group
+27,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+60,Male,Yes,No,Negative,None,Yes,Yes,No,No,No Indication in Synthetic Data
+72,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+66,Female,No,No,Not Available,None,No,Yes,No,No,No Indication in Synthetic Data
+62,Male,No,No,Positive,None,No,Yes,No,No,No Indication in Synthetic Data
+51,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+22,Male,Yes,No,Not Available,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+64,Other,No,Yes,Negative,Moderate,No,No,No,No,Needs Further Review
+30,Male,No,No,Not Available,Moderate,No,No,No,No,Needs Further Review
+43,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+26,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+26,Female,Yes,No,Negative,Severe,No,No,No,No,Needs Further Review
+13,Female,Yes,No,Negative,Moderate,Yes,No,Yes,No,Higher Synthetic Risk Group
+77,Male,No,Yes,Negative,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+12,Male,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+7,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+75,Female,No,No,Not Available,Mild,No,No,Yes,No,Needs Further Review
+45,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+36,Female,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+59,Male,Yes,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+31,Female,Yes,No,Negative,None,Yes,No,No,No,Needs Further Review
+11,Male,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+59,Female,Yes,No,Negative,Severe,No,No,No,No,Higher Synthetic Risk Group
+15,Male,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+45,Female,No,No,Positive,Moderate,No,No,Yes,No,Needs Further Review
+76,Male,No,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+75,Female,No,No,Negative,Moderate,No,No,,No,Needs Further Review
+29,Female,No,Yes,Negative,Severe,No,No,No,No,Needs Further Review
+63,Male,No,No,Positive,Moderate,Yes,No,No,No,Needs Further Review
+50,Female,Yes,No,Negative,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+39,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+12,Female,No,No,Positive,Mild,No,No,,No,No Indication in Synthetic Data
+31,Female,No,No,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+53,,Yes,No,Negative,Severe,No,No,No,No,Needs Further Review
+79,Male,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+1,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+58,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+68,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+77,Female,,No,Negative,Severe,Yes,No,Yes,No,Needs Further Review
+34,Male,No,No,Negative,Moderate,Yes,Yes,Yes,No,Needs Further Review
+10,Male,No,Yes,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+22,Male,Yes,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+69,Female,No,No,Not Available,Mild,No,Yes,No,No,No Indication in Synthetic Data
+71,Female,Yes,Yes,Not Available,None,No,No,No,No,Needs Further Review
+51,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+10,Male,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+10,Other,Yes,No,Positive,Moderate,Yes,Yes,No,No,Higher Synthetic Risk Group
+39,Male,Yes,No,Negative,None,Yes,No,No,No,Needs Further Review
+48,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+3,Male,Yes,No,Negative,Moderate,No,Yes,No,No,Higher Synthetic Risk Group
+55,Female,Yes,No,Positive,Mild,Yes,No,No,No,Needs Further Review
+44,Male,No,No,Not Available,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+1,Female,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+8,Male,,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+37,Male,No,No,Not Available,None,Yes,Yes,Yes,No,Needs Further Review
+58,Female,No,Yes,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+67,Female,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+35,Male,Yes,No,Negative,None,No,Yes,No,No,Needs Further Review
+24,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+78,Male,,No,Positive,Moderate,No,No,Yes,No,Needs Further Review
+37,,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+26,Male,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+36,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+1,Female,No,Yes,Positive,Mild,No,No,Yes,No,Higher Synthetic Risk Group
+25,Female,No,No,Negative,Mild,No,Yes,No,Yes,Needs Further Review
+42,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+74,Female,No,No,Positive,None,No,No,No,No,Needs Further Review
+60,Female,Yes,Yes,Positive,None,No,No,No,No,Needs Further Review
+63,Female,Yes,No,Negative,Moderate,Yes,No,No,No,Needs Further Review
+44,Male,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+9,Female,Yes,No,Negative,Mild,No,No,Yes,No,Higher Synthetic Risk Group
+32,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+80,Male,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+4,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+71,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+55,Male,No,No,Positive,Mild,Yes,No,No,No,Needs Further Review
+23,Male,No,Yes,Negative,Moderate,No,Yes,Yes,No,Needs Further Review
+63,Female,Yes,No,Positive,Mild,No,Yes,No,No,Needs Further Review
+67,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+4,Male,Yes,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+9,Male,No,No,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+54,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+80,Male,No,No,Negative,Mild,Yes,No,No,No,Higher Synthetic Risk Group
+2,Male,No,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+54,Female,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+11,Female,Yes,No,Not Available,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+53,Female,No,Yes,Negative,None,No,No,No,No,Needs Further Review
+50,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+8,Female,No,No,Negative,None,No,Yes,Yes,No,No Indication in Synthetic Data
+55,,No,No,Negative,Mild,No,No,No,Yes,No Indication in Synthetic Data
+72,Female,Yes,No,Negative,Mild,Yes,No,No,No,Needs Further Review
+70,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+3,Female,Yes,No,Positive,,No,No,No,No,Needs Further Review
+20,Male,Yes,No,Positive,Severe,No,No,No,No,Higher Synthetic Risk Group
+20,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+37,Female,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+12,Female,No,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+69,Female,No,No,Negative,Mild,Yes,Yes,No,No,Needs Further Review
+63,Male,No,No,Positive,None,No,No,Yes,No,Needs Further Review
+65,Female,No,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+0,Male,Yes,Yes,Positive,Moderate,No,No,No,No,Higher Synthetic Risk Group
+2,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+73,,Yes,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+24,,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+53,Female,No,No,Positive,None,No,No,No,No,Needs Further Review
+73,Female,No,No,Negative,None,No,Yes,No,No,Needs Further Review
+3,Female,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+1,Female,Yes,No,Negative,None,Yes,No,No,No,Needs Further Review
+1,Male,No,No,Not Available,,No,No,No,No,No Indication in Synthetic Data
+13,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+5,Male,No,No,Not Available,Severe,No,No,No,No,No Indication in Synthetic Data
+66,Male,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+49,Female,No,No,Not Available,Mild,No,No,Yes,No,No Indication in Synthetic Data
+79,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+65,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+78,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+20,Male,No,No,Positive,Mild,No,Yes,Yes,No,Needs Further Review
+24,Female,No,No,Not Available,Severe,No,No,Yes,No,No Indication in Synthetic Data
+68,Female,No,No,Negative,Severe,No,Yes,Yes,No,Needs Further Review
+20,Female,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+5,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+54,Male,Yes,No,Negative,Mild,Yes,No,No,No,Needs Further Review
+65,Female,Yes,Yes,Positive,Mild,No,No,No,Yes,Higher Synthetic Risk Group
+78,Male,No,No,Positive,Severe,No,No,Yes,No,No Indication in Synthetic Data
+0,Male,No,Yes,Positive,None,No,No,No,No,No Indication in Synthetic Data
+10,Female,No,No,Negative,None,Yes,No,Yes,No,No Indication in Synthetic Data
+62,Female,Yes,No,Positive,Moderate,No,No,No,No,Needs Further Review
+68,Male,No,No,Not Available,Mild,No,Yes,Yes,No,No Indication in Synthetic Data
+56,,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+66,Female,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+68,Female,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+36,Male,No,No,Negative,None,No,No,Yes,No,Needs Further Review
+4,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+37,Male,No,No,Negative,Mild,Yes,Yes,Yes,No,Needs Further Review
+17,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+10,,No,Yes,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+10,Male,No,Yes,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+56,Male,No,No,Not Available,None,No,Yes,No,No,No Indication in Synthetic Data
+41,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+44,Female,No,Yes,Negative,None,No,No,No,Yes,Needs Further Review
+60,Other,No,No,Positive,Moderate,No,No,No,No,Needs Further Review
+44,Female,No,Yes,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+51,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+7,Female,No,No,Positive,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+69,Female,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+36,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+13,Female,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+66,Male,Yes,No,Not Available,Moderate,No,No,No,No,Needs Further Review
+59,Female,No,Yes,Negative,Moderate,No,Yes,No,No,Needs Further Review
+5,Other,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+16,Female,No,No,Negative,Severe,Yes,No,No,No,No Indication in Synthetic Data
+2,Male,Yes,No,Not Available,Mild,Yes,Yes,,No,Higher Synthetic Risk Group
+22,Female,No,No,Negative,Severe,Yes,No,No,No,No Indication in Synthetic Data
+8,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+57,Male,No,No,Negative,Severe,No,No,No,No,Needs Further Review
+42,Male,No,No,Negative,Severe,No,Yes,Yes,No,Needs Further Review
+79,Male,No,No,Negative,Severe,Yes,Yes,No,No,Needs Further Review
+60,Female,No,No,Not Available,None,No,No,,Yes,Needs Further Review
+49,Male,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+41,Male,No,No,Negative,Moderate,No,Yes,No,Yes,Higher Synthetic Risk Group
+5,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+6,Female,No,No,Not Available,Mild,No,Yes,No,No,Needs Further Review
+50,Male,No,No,Not Available,Severe,Yes,Yes,No,No,No Indication in Synthetic Data
+1,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+4,Male,No,No,Negative,Mild,No,No,No,Yes,No Indication in Synthetic Data
+18,Female,No,No,Positive,Mild,No,Yes,No,No,Needs Further Review
+71,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+37,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+57,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+33,Male,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+14,Female,,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+30,Female,Yes,No,Negative,Mild,No,Yes,No,No,Needs Further Review
+8,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+62,Female,No,No,Positive,None,No,No,Yes,No,Needs Further Review
+15,Female,Yes,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+31,Male,Yes,No,Negative,Severe,Yes,No,No,No,Higher Synthetic Risk Group
+79,Male,Yes,No,Not Available,None,No,No,No,No,Higher Synthetic Risk Group
+48,Male,No,No,Positive,Moderate,No,Yes,No,No,Higher Synthetic Risk Group
+37,Female,Yes,No,Not Available,Mild,No,Yes,No,No,No Indication in Synthetic Data
+44,Female,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+63,Male,No,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+21,Female,Yes,No,Positive,Mild,No,No,Yes,No,Needs Further Review
+51,Female,No,No,Negative,Moderate,Yes,Yes,No,No,No Indication in Synthetic Data
+70,Female,No,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+46,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+36,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+12,Male,No,No,Negative,None,Yes,No,Yes,Yes,Higher Synthetic Risk Group
+20,Male,Yes,No,Negative,Moderate,No,No,Yes,No,Needs Further Review
+76,Female,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+44,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+25,Female,Yes,No,Positive,Moderate,No,No,Yes,No,Needs Further Review
+34,Female,No,No,Not Available,Mild,No,Yes,No,Yes,No Indication in Synthetic Data
+47,Female,No,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+44,Female,Yes,No,Negative,Mild,Yes,Yes,Yes,No,Higher Synthetic Risk Group
+56,Female,Yes,No,Positive,Severe,Yes,No,No,No,Higher Synthetic Risk Group
+21,Male,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+52,Male,Yes,Yes,Negative,Mild,Yes,No,No,No,Needs Further Review
+36,Female,Yes,No,Not Available,Moderate,No,No,No,No,Needs Further Review
+76,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+13,,Yes,No,Positive,Mild,No,No,No,No,Higher Synthetic Risk Group
+12,Male,No,No,Positive,Mild,No,No,No,No,Needs Further Review
+37,Male,No,No,Negative,None,Yes,No,No,No,No Indication in Synthetic Data
+41,Female,No,Yes,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+56,Male,Yes,Yes,Negative,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+33,Female,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+74,Female,Yes,No,Negative,Severe,No,Yes,No,No,Needs Further Review
+38,Female,No,No,Not Available,Mild,No,No,No,Yes,No Indication in Synthetic Data
+11,,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+10,Female,No,No,Not Available,,No,No,Yes,No,No Indication in Synthetic Data
+78,Female,Yes,No,Not Available,Severe,No,No,No,No,Needs Further Review
+11,Male,Yes,Yes,Negative,Moderate,Yes,No,No,Yes,Higher Synthetic Risk Group
+76,Female,No,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+23,Female,Yes,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+8,Female,Yes,No,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+25,Female,No,No,Positive,Severe,No,No,No,No,Needs Further Review
+50,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+35,Female,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+63,Female,No,Yes,Positive,Mild,No,Yes,No,No,Needs Further Review
+49,Male,No,No,Positive,Mild,No,Yes,No,Yes,Needs Further Review
+33,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+51,Male,No,No,Negative,Severe,No,Yes,Yes,No,Needs Further Review
+78,Male,No,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+33,Male,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+13,Other,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+33,Male,No,No,Not Available,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+68,Male,Yes,No,Positive,Mild,Yes,No,Yes,No,Higher Synthetic Risk Group
+18,Male,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+76,Male,Yes,No,Negative,Severe,No,No,Yes,No,Higher Synthetic Risk Group
+48,Female,No,Yes,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+49,Female,No,No,Negative,Mild,Yes,No,No,Yes,Needs Further Review
+26,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+74,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+3,Male,No,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+24,Female,Yes,No,Negative,Severe,No,Yes,No,Yes,Higher Synthetic Risk Group
+34,Male,No,No,Negative,None,No,No,Yes,No,Needs Further Review
+39,Male,No,No,Not Available,Severe,Yes,No,No,No,No Indication in Synthetic Data
+38,Male,Yes,No,Positive,Moderate,No,No,No,No,Higher Synthetic Risk Group
+12,Female,No,Yes,Positive,Mild,Yes,No,No,No,Needs Further Review
+19,Female,No,No,Positive,None,No,Yes,Yes,No,Needs Further Review
+8,Male,No,Yes,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+46,Male,No,No,Positive,Severe,Yes,No,No,No,No Indication in Synthetic Data
+29,Other,Yes,No,Negative,Mild,Yes,No,Yes,No,Needs Further Review
+46,Male,Yes,No,Negative,Mild,No,Yes,Yes,No,Higher Synthetic Risk Group
+48,Male,Yes,Yes,Negative,Moderate,No,No,No,No,Needs Further Review
+57,Female,Yes,No,Negative,Severe,No,Yes,Yes,Yes,Higher Synthetic Risk Group
+44,Female,No,No,Positive,Moderate,Yes,No,No,No,Needs Further Review
+52,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+47,Male,Yes,No,Positive,None,No,No,No,Yes,Higher Synthetic Risk Group
+53,Male,No,Yes,Not Available,Severe,No,Yes,No,No,Needs Further Review
+50,Female,No,No,Positive,Mild,Yes,No,No,No,Needs Further Review
+26,Male,No,No,Negative,None,No,No,No,No,Needs Further Review
+20,Female,No,No,Not Available,Severe,No,No,No,No,No Indication in Synthetic Data
+63,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+28,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+44,Female,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+16,Male,No,Yes,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+35,Female,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+43,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+51,Male,No,Yes,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+43,Female,No,Yes,Negative,Moderate,No,No,No,Yes,No Indication in Synthetic Data
+29,Female,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+77,Male,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+42,Female,No,No,Negative,Moderate,No,No,No,Yes,No Indication in Synthetic Data
+65,Male,No,No,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+59,Female,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+45,Male,Yes,No,Positive,None,No,Yes,No,No,Needs Further Review
+71,Male,No,No,Negative,Mild,No,Yes,Yes,No,No Indication in Synthetic Data
+11,Female,Yes,No,Positive,None,No,No,No,No,Needs Further Review
+74,Female,Yes,No,Positive,Moderate,No,No,Yes,No,Needs Further Review
+69,Male,Yes,No,Positive,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+41,Female,No,No,Not Available,None,Yes,No,No,No,No Indication in Synthetic Data
+59,Female,Yes,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+42,Female,Yes,No,Positive,None,No,No,No,No,Needs Further Review
+22,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+64,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+20,Male,No,No,Not Available,Mild,No,No,Yes,No,No Indication in Synthetic Data
+26,Female,Yes,Yes,Not Available,Severe,No,No,Yes,Yes,Higher Synthetic Risk Group
+42,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+67,Female,No,No,Negative,None,No,No,Yes,Yes,No Indication in Synthetic Data
+31,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+40,,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+4,Other,No,Yes,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+10,Female,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+5,Female,Yes,No,Positive,Mild,No,No,Yes,No,Higher Synthetic Risk Group
+6,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+70,Male,Yes,No,Positive,Moderate,Yes,No,No,Yes,Higher Synthetic Risk Group
+68,Female,No,No,Positive,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+66,Female,No,No,Negative,None,No,No,No,Yes,No Indication in Synthetic Data
+5,Male,No,No,Negative,None,Yes,No,Yes,No,No Indication in Synthetic Data
+7,Female,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+23,Female,Yes,No,Positive,Mild,No,No,Yes,No,Needs Further Review
+46,Female,No,No,Positive,Mild,Yes,Yes,No,No,Needs Further Review
+27,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+40,Female,Yes,No,Not Available,Mild,No,Yes,No,Yes,Needs Further Review
+14,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+59,Male,No,No,Negative,None,No,Yes,No,Yes,No Indication in Synthetic Data
+26,Male,No,No,Negative,Severe,No,No,Yes,No,Needs Further Review
+6,Other,No,No,Negative,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+60,Female,No,No,Negative,Mild,Yes,Yes,No,No,No Indication in Synthetic Data
+73,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+2,Male,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+35,Female,No,No,Negative,Severe,No,Yes,No,No,No Indication in Synthetic Data
+67,Male,Yes,No,Negative,Moderate,No,No,No,No,Higher Synthetic Risk Group
+57,Male,No,No,Positive,Mild,Yes,Yes,Yes,No,Higher Synthetic Risk Group
+69,Female,No,No,Negative,Severe,No,Yes,No,Yes,No Indication in Synthetic Data
+34,Female,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+30,Female,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+57,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+13,Female,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+20,Female,Yes,No,Negative,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+49,Male,Yes,No,Positive,Mild,No,No,No,No,Needs Further Review
+54,Male,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+10,Male,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+41,Female,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+30,Female,No,No,Positive,Mild,No,Yes,Yes,No,Higher Synthetic Risk Group
+41,Female,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+77,Female,Yes,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+7,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+80,Female,No,No,Not Available,Moderate,No,Yes,No,Yes,Higher Synthetic Risk Group
+36,Female,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+62,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+34,Female,No,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+25,Female,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+62,Female,No,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+56,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+12,Male,Yes,No,Positive,Moderate,No,No,No,No,Needs Further Review
+57,Female,Yes,No,Not Available,Mild,No,No,Yes,No,Higher Synthetic Risk Group
+61,Male,No,Yes,Negative,,Yes,Yes,No,Yes,No Indication in Synthetic Data
+32,Male,Yes,No,Positive,Severe,No,No,No,No,Needs Further Review
+75,Male,No,No,Negative,Mild,No,Yes,No,No,Needs Further Review
+52,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+27,Female,No,No,Not Available,Severe,No,No,No,Yes,Needs Further Review
+1,Male,Yes,No,Negative,Severe,No,No,Yes,No,Needs Further Review
+54,Female,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+17,Male,No,No,Not Available,Moderate,Yes,No,No,No,No Indication in Synthetic Data
+61,Male,Yes,No,Not Available,Severe,No,Yes,No,No,Needs Further Review
+43,Female,Yes,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+38,Male,Yes,Yes,Negative,None,No,Yes,Yes,Yes,Higher Synthetic Risk Group
+14,Male,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+57,Male,Yes,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+14,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+34,Male,No,No,Positive,Mild,No,Yes,No,No,No Indication in Synthetic Data
+67,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+74,Male,Yes,No,Not Available,Moderate,No,No,No,Yes,Needs Further Review
+80,Male,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+77,Male,No,No,Not Available,Severe,No,No,Yes,No,Needs Further Review
+45,Female,Yes,No,Negative,Moderate,No,Yes,No,Yes,Higher Synthetic Risk Group
+17,Female,No,No,Positive,Severe,Yes,No,No,No,Needs Further Review
+68,Female,Yes,No,Positive,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+65,Male,Yes,No,Negative,Mild,No,Yes,No,No,No Indication in Synthetic Data
+80,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+53,Male,Yes,Yes,Negative,None,No,No,Yes,No,Needs Further Review
+12,Female,Yes,No,Negative,Severe,No,Yes,No,No,Needs Further Review
+41,Male,Yes,Yes,Negative,Mild,Yes,No,No,No,Needs Further Review
+36,Male,No,No,Negative,Moderate,No,No,Yes,No,No Indication in Synthetic Data
+68,Female,No,No,Not Available,Moderate,No,No,Yes,No,Needs Further Review
+32,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+27,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+7,Male,Yes,No,Negative,None,No,Yes,No,No,Needs Further Review
+67,Female,No,No,Not Available,Mild,No,Yes,Yes,No,No Indication in Synthetic Data
+61,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+0,Male,No,No,Negative,Mild,Yes,No,Yes,No,Needs Further Review
+35,Male,No,No,Positive,Moderate,No,Yes,No,No,Needs Further Review
+39,Male,No,No,Negative,Severe,Yes,Yes,No,No,Needs Further Review
+38,Other,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+74,Female,Yes,No,Negative,Moderate,No,No,No,No,Higher Synthetic Risk Group
+13,Male,No,No,Negative,Severe,No,No,No,No,No Indication in Synthetic Data
+25,Female,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+15,Other,No,Yes,Negative,None,No,Yes,No,No,No Indication in Synthetic Data
+20,Female,No,No,Not Available,,No,No,No,No,Needs Further Review
+73,Female,Yes,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+76,Male,No,No,Positive,Moderate,No,No,No,Yes,Higher Synthetic Risk Group
+4,Female,No,No,Negative,Moderate,No,Yes,No,No,No Indication in Synthetic Data
+51,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+19,Female,Yes,No,Negative,None,No,No,No,No,Needs Further Review
+16,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+24,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+16,Female,No,No,Negative,None,No,No,Yes,No,No Indication in Synthetic Data
+40,Male,Yes,No,Negative,Mild,Yes,No,No,No,No Indication in Synthetic Data
+80,Female,Yes,No,Positive,Moderate,No,No,No,No,Needs Further Review
+47,Male,No,No,Not Available,Moderate,No,Yes,No,Yes,Needs Further Review
+58,Male,Yes,No,Negative,None,No,No,No,No,Needs Further Review
+40,Male,No,No,Negative,Mild,No,No,No,No,Needs Further Review
+2,Female,No,No,Positive,Severe,No,No,Yes,No,Needs Further Review
+7,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+22,Male,Yes,No,Not Available,None,Yes,Yes,Yes,No,Higher Synthetic Risk Group
+20,Male,No,No,Positive,None,No,No,Yes,No,Needs Further Review
+68,Male,Yes,No,Positive,Mild,No,No,Yes,No,Needs Further Review
+68,Female,No,No,Positive,Severe,No,No,No,No,No Indication in Synthetic Data
+69,Female,No,No,Negative,Mild,Yes,No,Yes,No,Needs Further Review
+52,Male,No,No,Not Available,None,No,No,No,Yes,No Indication in Synthetic Data
+45,Female,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+52,Female,No,No,Negative,None,Yes,No,No,No,Needs Further Review
+33,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+54,Female,Yes,No,Negative,Severe,No,No,Yes,No,Needs Further Review
+64,Male,No,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+62,,No,No,Positive,None,No,No,No,No,No Indication in Synthetic Data
+50,Male,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+5,Male,No,Yes,Negative,None,No,No,No,Yes,No Indication in Synthetic Data
+58,Male,Yes,No,Negative,None,No,Yes,No,No,Needs Further Review
+30,Female,Yes,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+60,Male,Yes,No,Not Available,Mild,Yes,No,No,No,No Indication in Synthetic Data
+44,Male,Yes,No,Negative,Moderate,No,No,Yes,No,Higher Synthetic Risk Group
+71,Female,No,No,Negative,Severe,No,Yes,,No,Higher Synthetic Risk Group
+28,Female,Yes,No,Positive,Mild,No,Yes,No,No,Needs Further Review
+75,Female,No,Yes,Not Available,Severe,No,Yes,No,No,Needs Further Review
+68,Male,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+27,Male,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+39,Male,No,No,Positive,Moderate,No,No,No,No,No Indication in Synthetic Data
+43,Male,Yes,Yes,Negative,None,No,Yes,Yes,No,Higher Synthetic Risk Group
+62,Male,No,No,Negative,Mild,No,No,Yes,Yes,No Indication in Synthetic Data
+56,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+69,Female,No,No,Positive,Mild,No,Yes,No,No,No Indication in Synthetic Data
+30,Male,Yes,No,Not Available,Severe,No,No,No,Yes,Higher Synthetic Risk Group
+41,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+35,Male,Yes,No,Negative,Moderate,No,No,Yes,Yes,Higher Synthetic Risk Group
+73,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+25,Female,No,No,Not Available,None,No,No,No,No,No Indication in Synthetic Data
+47,Male,Yes,Yes,Not Available,Mild,No,No,,No,Needs Further Review
+10,Female,Yes,No,Negative,Severe,Yes,No,No,No,No Indication in Synthetic Data
+69,Male,Yes,Yes,Negative,None,Yes,No,No,No,Needs Further Review
+31,Male,Yes,No,Negative,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+28,Male,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+47,Female,No,No,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+40,Female,No,No,Positive,Mild,No,No,No,No,No Indication in Synthetic Data
+68,Female,Yes,No,Positive,None,No,No,No,No,Higher Synthetic Risk Group
+43,Female,No,No,Not Available,Severe,No,No,No,No,No Indication in Synthetic Data
+42,Female,Yes,No,Not Available,Mild,No,No,Yes,No,Higher Synthetic Risk Group
+9,Female,No,No,Not Available,Moderate,Yes,Yes,No,No,Needs Further Review
+2,Other,Yes,Yes,Negative,Moderate,No,No,No,No,Higher Synthetic Risk Group
+32,Female,Yes,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+80,Female,No,No,Not Available,Moderate,No,No,No,No,No Indication in Synthetic Data
+74,Male,Yes,No,Negative,Severe,No,No,Yes,No,Needs Further Review
+51,Male,No,No,Positive,Moderate,Yes,No,No,No,Needs Further Review
+51,Male,No,No,Not Available,Mild,Yes,No,No,No,Needs Further Review
+32,Male,Yes,No,Positive,Moderate,Yes,No,No,No,Higher Synthetic Risk Group
+15,Male,No,No,Negative,Moderate,No,Yes,No,No,Needs Further Review
+1,Male,No,No,Negative,Mild,No,No,No,Yes,No Indication in Synthetic Data
+28,Male,No,No,Negative,Moderate,No,Yes,No,Yes,No Indication in Synthetic Data
+26,Male,No,No,Negative,Mild,No,Yes,Yes,No,No Indication in Synthetic Data
+16,Female,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+21,Female,No,No,Positive,Severe,No,No,No,No,Needs Further Review
+2,Female,No,No,Not Available,Severe,No,No,No,No,No Indication in Synthetic Data
+49,Female,No,No,Positive,Moderate,No,No,No,No,Needs Further Review
+75,Male,Yes,No,Negative,Moderate,No,No,No,No,Needs Further Review
+56,Female,Yes,No,Negative,Moderate,No,No,No,No,Higher Synthetic Risk Group
+36,Female,No,No,Positive,None,No,No,Yes,No,Needs Further Review
+34,Female,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+25,Male,Yes,No,Negative,Mild,No,No,Yes,No,Needs Further Review
+12,Female,Yes,Yes,Positive,None,No,No,No,No,Needs Further Review
+48,Male,,No,Positive,Severe,No,No,No,No,Needs Further Review
+46,Male,Yes,Yes,Negative,Severe,No,Yes,No,No,Higher Synthetic Risk Group
+1,Female,No,No,Not Available,Mild,No,No,No,No,No Indication in Synthetic Data
+34,Male,No,Yes,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+23,Female,No,No,Negative,Moderate,No,Yes,Yes,No,Needs Further Review
+14,Female,Yes,No,Not Available,Mild,Yes,Yes,No,No,Needs Further Review
+57,Male,No,No,Negative,Moderate,No,No,No,No,No Indication in Synthetic Data
+43,Male,No,No,Negative,Severe,No,No,Yes,No,Needs Further Review
+51,Female,No,No,Negative,Mild,No,No,No,No,No Indication in Synthetic Data
+58,Male,No,Yes,Negative,Mild,No,No,Yes,No,No Indication in Synthetic Data
+79,Female,Yes,No,Negative,Mild,No,No,No,No,Needs Further Review
+65,Male,No,No,Negative,None,No,No,No,No,No Indication in Synthetic Data
+50,Male,Yes,Yes,Positive,Mild,No,No,No,No,Needs Further Review

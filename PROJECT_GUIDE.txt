@@ -1,0 +1,22 @@
+PROJECT QUICK START
+
+1. Install Python 3.10+ and VS Code.
+2. Open this extracted folder in VS Code.
+3. Open Terminal > New Terminal.
+4. Create and activate a virtual environment:
+   python -m venv venv
+   Windows: venv\Scripts\activate
+   macOS/Linux: source venv/bin/activate
+5. Install dependencies:
+   pip install -r requirements.txt
+6. Train:
+   python src/train.py
+7. Evaluate:
+   python src/evaluation.py
+8. Start Flask in terminal 1:
+   python app/api.py
+9. Start Streamlit in terminal 2:
+   streamlit run app/app.py
+10. Open the local Streamlit URL shown in the terminal.
+
+Educational demo only. The dataset and labels are synthetic; never use for clinical decisions.
